@@ -1,0 +1,7 @@
+# Ignore trained model
+artifacts/trained_model/
+
+# Ignore serialized objects
+artifacts/serialized_objects/
+
+__pycache__/
